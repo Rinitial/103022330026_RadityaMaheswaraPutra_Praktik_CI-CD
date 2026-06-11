@@ -16,7 +16,7 @@
     <repository>
         <id>github</id>
         <name>GitHub Packages</name>
-        <url>https://maven.pkg.github.com/Rinitial/mkepl</url>
+        <url>https://maven.pkg.github.com/Rinitial/103022330026_radityamaheswaraputra_praktik_ci-cd</url>
     </repository>
 </distributionManagement>
   
